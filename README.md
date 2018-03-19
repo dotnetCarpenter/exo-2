@@ -12,6 +12,11 @@ Due to lack of time, only the regular (_exo-2-latin-400_ and _exo-2-latin-400ita
 If you use this package (because Google Font are slow to update)
 and you need other font-weight, then create an issue and I will add it to this repo.
 
+# The Author #
+
+Exo 2 is created by [Natanael Gama](http://www.ndiscovered.com/).
+Please consider donating to him. [Donate to Author via paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DFHFU7BUVHEG4)
+
 ## Install
 
 `npm install --save @dotnetcarpenter/typeface-exo-2`
