@@ -8,7 +8,8 @@ This is a fork from [typefaces](https://github.com/KyleAMathews/typefaces) that 
 
 # IMPORTANT #
 
-Due to lack of time, only the regular () font weight has `tnum` support. If you use this package (because Google Font are slow to update)
+Due to lack of time, only the regular (_exo-2-latin-400_ and _exo-2-latin-400italic_) font weight has `tnum` support.
+If you use this package (because Google Font are slow to update)
 and you need other font-weight, then create an issue and I will add it to this repo.
 
 ## Install

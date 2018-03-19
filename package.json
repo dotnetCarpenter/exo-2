@@ -1,6 +1,6 @@
 {
   "name": "@dotnetcarpenter/typeface-exo-2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Exo 2 typeface",
   "main": "index.css",
   "keywords": [
@@ -12,5 +12,5 @@
   ],
   "author": "Natanael Gama <info@ndiscovered.com>",
   "license": "MIT",
-  "repository": "https://github.com/KyleAMathews/typefaces/tree/master/packages/exo-2"
+  "repository": "https://github.com/dotnetCarpenter/exo-2"
 }
